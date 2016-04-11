@@ -1,0 +1,8 @@
+========== TeX5 - a new syntax for HTML5-LaTeX hybrid systems =============
+
+Example: 
+
+HTML:=<p>This is a beautiful <b>bold</b> and <i>italic</i> text with some gas such as CO<sub>2</sub> and some square such <i>x</i><sup>2</sup> which is solutionof <math><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>=</mo><mn>5</mn></math> that will be used to illustrate TeX5.</p>
+
+
+TeX5:=<p>This is a beautiful \b{bold} and \i{italic} text with some gas such as CO_2 and some square such \i{x}^2 which is solutionof $\frac{x^2+2x}{x+3}}=5$ that will be used to illustrate TeX5.</p>  
